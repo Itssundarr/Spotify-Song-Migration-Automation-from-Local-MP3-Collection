@@ -7,11 +7,11 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 
-print("##############################################")
-print("#                                            #")
-print("#     Spotify MP3 Song Migration Automation  #")
-print("#                                            #")
-print("##############################################\n")
+print("************************************************")
+print("*                                              *")
+print("*    Spotify MP3 Song Migration Automation     *")
+print("*                                              *")
+print("************************************************\n")
 
 print("Welcome to the Spotify MP3 Song Migration Automation!")
 print("This tool will help you migrate your MP3 collection to Spotify by automating the search and add process.\n")
