@@ -21,7 +21,7 @@ This project automates the process of migrating your old MP3 song collection to 
 
     ```sh
     git clone https://github.com/Itssundarr/Spotify-Song-Migration-Automation-from-Local-MP3-Collection
-    cd cd Spotify-Song-Migration-Automation-from-Local-MP3-Collection
+    cd Spotify-Song-Migration-Automation-from-Local-MP3-Collection
     ```
 
 2. **Install the required Python packages**:
